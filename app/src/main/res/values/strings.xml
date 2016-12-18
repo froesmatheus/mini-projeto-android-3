@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiniProjeto03</string>
+    <string name="funcionarios">Funcionários</string>
+    <string name="cadastrar_funcionario">Cadastrar Funcionário</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="lucro_anual">Lucro Anual</string>
+    <string name="detalhes_funcionario">Detalhes do Funcionário</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="editar_funcionario">Editar Funcionário</string>
+</resources>
